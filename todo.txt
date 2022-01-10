@@ -1,0 +1,8 @@
+my todo
+
+1. write an article
+2. code
+3. study
+4. attend class
+5. visit aunt
+6. apply
