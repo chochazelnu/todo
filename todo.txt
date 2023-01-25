@@ -6,3 +6,4 @@ my todo
 4. attend class
 5. visit aunt
 6. apply
+7. practice
